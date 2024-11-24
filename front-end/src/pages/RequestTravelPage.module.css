@@ -1,0 +1,13 @@
+.divRequest {
+    display: block;
+    block-size: 50rem;
+    margin-top: 30px;
+}
+
+.titleRequest {
+    font-size: 70px;
+}
+
+.info {
+    font-size: 30px;
+}
